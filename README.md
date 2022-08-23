@@ -1,1 +1,1 @@
-My first readme
+Update after performing all exercises
